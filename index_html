@@ -49,7 +49,7 @@
 </head>
 <body>
   <script>
-    const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbxmpr9PrhxFm-BDq7RZ1X6ytsxBC-m72oMHNnaJlEJ33Sm1MQsPZtcgItdbsIhMYSgYdA/exec";
+    const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbyGreLskPyGqA4ihlTa1BiNs9Gn1Ky2NUg1m4aI2wJLmgBLIlsM3Ofo6hFBOI1OvoNm/exec";
     
     var url = document.location.href;
     var k = url.substr(url.lastIndexOf("k=")+2);
